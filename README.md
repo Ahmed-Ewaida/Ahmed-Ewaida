@@ -28,8 +28,8 @@ I build with tools like **Flutter**, **Laravel**, **Flask**, **Figma**, **MySQL*
 
 ## 🌐 Let’s Connect
 
-- 📺 [YouTube]([My YouTube channel](https://youtube.com/@ahmedsaber-ss8wg?si=p8r-ce3vX-D0TSzH)) – where I share knowledge and ideas  
-- 💼 [LinkedIn]([My LinkedIn profile](https://www.linkedin.com/in/ahmed-saber-7298b4295)) – let’s talk growth and opportunity   
+- 📺 [YouTube]([My YouTube channel](https://www.youtube.com/@ahmedewaida)) – where I share knowledge and ideas  
+- 💼 [LinkedIn]([My LinkedIn profile](https://www.linkedin.com/in/ahmed-ewaida-182140255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) – let’s talk growth and opportunity   
 - 📧 Email: ahmedsaber52001@gmail.com
 
 ---
