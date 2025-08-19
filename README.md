@@ -30,7 +30,7 @@ I build with tools like **Flutter**, **Laravel**, **Flask**, **Figma**, **MySQL*
 
 - 📺 [YouTube]([My YouTube channel](https://www.youtube.com/@ahmedewaida)) – where I share knowledge and ideas  
 - 💼 [LinkedIn]([My LinkedIn profile](https://www.linkedin.com/in/ahmed-ewaida-182140255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) – let’s talk growth and opportunity   
-- 📧 Email: ahmedsaber52001@gmail.com
+- 📧 Email: ahmedewaida234@gmail.com
 
 ---
 
