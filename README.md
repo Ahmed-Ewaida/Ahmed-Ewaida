@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hey, I’m Ahmed Saber
+# 👋 Hey, I’m Ahmed Ewaida
 
 A builder at heart. I love turning ideas into real, working solutions that people actually use. I’m not just in this to write code — I’m here to **create impact**.
 
