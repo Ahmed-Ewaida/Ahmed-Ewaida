@@ -21,17 +21,13 @@ I move fast, learn faster, and stay curious. I believe that great work is built 
 
 ## 💬 What Drives Me
 
-- 💡 Turning complexity into simplicity  
-- ✨ Creating things people enjoy using  
-- 🎯 Working with purpose and efficiency  
-- 🤝 Collaborating, improving, and growing  
-- 🧠 Staying curious and never settling
+I have acquired the fundamentals of the Dart language and object-oriented programming (OOP) concepts. I have a basic understanding of Flutter, including using widgets, building models, and receiving and sending data to APIs. Additionally, I have experience using GitHub for version control and teamwork, and installing Flutter packages. I have also worked as a freelancer on an e-commerce project and a calling app.
 
 ---
 
 ## 🔍 What I Often Work With
 
-I build with tools like **Flutter**, **Laravel**, **Flask**, **Figma**, **MySQL**, and **Postman**, but tools change. The mindset stays: **solve the problem, make it clean, make it last**.
+I build with tools like **Flutter**, **Figma**, **MySQL**, and **Postman**, but tools change. The mindset stays: **solve the problem, make it clean, make it last**.
 
 ---
 
