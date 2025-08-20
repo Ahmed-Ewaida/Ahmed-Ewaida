@@ -1,6 +1,6 @@
 <p align="center"
 
-<a href="https://github rCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%2@new%20things&font=Fira%2@Code&center=true&width=440&he</p>
+<a href="https://github rCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%2@new%20things&font=Fira%2@Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"</a></p>
 ## Hi there 👋
 
 # 👋 Hey, I’m Ahmed Ewaida
